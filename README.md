@@ -39,7 +39,7 @@
 <body>
   <div class="container">
     <h1>Untuk Mira, Cinta Sejati Saya</h1>
-    <img src="gambar_anda.jpg" alt="Foto Anda dan Mira">
+    <img src="IMG_20230101_000557.jpg" alt="Foto Arifin dan Mira">
     <p>Halo Mira,</p>
     <p>Website ini saya buat khusus untukmu karena aku ingin mengungkapkan betapa besar cintaku padamu. Setiap detik bersamamu adalah berkah bagi hidupku. Kamu membuatku tersenyum, kamu membuatku merasa istimewa, dan kamu membuat hidupku berarti.</p>
     <p>Dalam setiap momen yang kita lewati bersama, aku merasa bahagia dan lengkap. Kamu adalah sosok yang paling berarti dalam hidupku, dan aku bersyukur memiliki kamu di sisiku.</p>
